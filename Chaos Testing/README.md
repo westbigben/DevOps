@@ -113,4 +113,4 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## 📝 License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the GNU General Public License v3.0 - see the LICENSE file for details. This means you can freely use, modify and distribute this software, but any derivative work must also be distributed under the GPL v3 license.
